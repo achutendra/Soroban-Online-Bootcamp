@@ -1,0 +1,1 @@
+D:\Projects\Personal\ Projects\soroban\ bootcamp\Soroban-Online-Bootcamp\soroban\code_in_rust\target\debug\code_in_rust.exe: D:\Projects\Personal\ Projects\soroban\ bootcamp\Soroban-Online-Bootcamp\soroban\code_in_rust\src\main.rs
