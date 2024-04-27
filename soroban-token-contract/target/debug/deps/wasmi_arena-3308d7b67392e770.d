@@ -1,0 +1,10 @@
+D:\Projects\Personal Projects\soroban bootcamp\Soroban-Online-Bootcamp\soroban-token-contract\target\debug\deps\libwasmi_arena-3308d7b67392e770.rmeta: C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\lib.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\component_vec.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\dedup.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\guarded.rs
+
+D:\Projects\Personal Projects\soroban bootcamp\Soroban-Online-Bootcamp\soroban-token-contract\target\debug\deps\libwasmi_arena-3308d7b67392e770.rlib: C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\lib.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\component_vec.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\dedup.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\guarded.rs
+
+D:\Projects\Personal Projects\soroban bootcamp\Soroban-Online-Bootcamp\soroban-token-contract\target\debug\deps\wasmi_arena-3308d7b67392e770.d: C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\lib.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\component_vec.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\dedup.rs C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\guarded.rs
+
+C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\lib.rs:
+C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\component_vec.rs:
+C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\dedup.rs:
+C:\Users\Achutendra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_arena-0.4.1\src\guarded.rs:
